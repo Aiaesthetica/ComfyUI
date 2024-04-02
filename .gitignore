@@ -1,1 +1,11 @@
-/models
+/models/checkpoints
+/models/clip_vision
+/models/controlnet
+/models/insightface
+/models/instantid
+/models/ipadapter
+/models/loras
+/models/photomaker
+/models/vae
+/models/ultralytics
+/models/sams
