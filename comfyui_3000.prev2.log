@@ -1,0 +1,30 @@
+** ComfyUI startup time: 2024-03-22 02:31:40.220443
+[2024-03-22 02:31] ** Platform: Linux
+[2024-03-22 02:31] ** Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+[2024-03-22 02:31] ** Python executable: /venv/bin/python
+[2024-03-22 02:31] ** Log path: /workspace/ComfyUI/comfyui.log
+[2024-03-22 02:31] 
+Prestartup times for custom nodes:
+[2024-03-22 02:31]    0.1 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-22 02:31] 
+[2024-03-22 02:31] Total VRAM 20154 MB, total RAM 257841 MB
+[2024-03-22 02:31] xformers version: 0.0.22
+[2024-03-22 02:31] Set vram state to: NORMAL_VRAM
+[2024-03-22 02:31] Device: cuda:0 NVIDIA RTX 4000 Ada Generation : cudaMallocAsync
+[2024-03-22 02:31] VAE dtype: torch.bfloat16
+[2024-03-22 02:31] Using xformers cross attention
+[2024-03-22 02:31] ****** User settings have been changed to be stored on the server instead of browser storage. ******
+[2024-03-22 02:31] ****** For multi-user setups add the --multi-user CLI argument to enable multiple user profiles. ******
+[2024-03-22 02:31] ### Loading: ComfyUI-Manager (V2.7.1)
+[2024-03-22 02:31] ### ComfyUI Revision: 1958 [236bda26] | Released on '2024-02-05'
+[2024-03-22 02:31] 
+Import times for custom nodes:
+[2024-03-22 02:31]    0.1 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-22 02:31] 
+[2024-03-22 02:31] Starting server
+[2024-03-22 02:31] 
+[2024-03-22 02:31] To see the GUI go to: http://0.0.0.0:3000
+[2024-03-22 02:31] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-03-22 02:31] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-03-22 02:31] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-03-22 02:31] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json

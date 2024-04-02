@@ -1,0 +1,54 @@
+** ComfyUI startup time: 2024-03-23 21:42:04.851834
+[2024-03-23 21:42] ** Platform: Linux
+[2024-03-23 21:42] ** Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+[2024-03-23 21:42] ** Python executable: /venv/bin/python
+[2024-03-23 21:42] ** Log path: /workspace/ComfyUI/comfyui.log
+[2024-03-23 21:42] 
+Prestartup times for custom nodes:
+[2024-03-23 21:42]    0.0 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-23 21:42] 
+[2024-03-23 21:42] Total VRAM 20154 MB, total RAM 257841 MB
+[2024-03-23 21:42] xformers version: 0.0.22
+[2024-03-23 21:42] Set vram state to: NORMAL_VRAM
+[2024-03-23 21:42] Device: cuda:0 NVIDIA RTX 4000 Ada Generation : cudaMallocAsync
+[2024-03-23 21:42] VAE dtype: torch.bfloat16
+[2024-03-23 21:42] Using xformers cross attention
+[2024-03-23 21:42] ### Loading: ComfyUI-Manager (V2.7.1)
+[2024-03-23 21:42] ### ComfyUI Revision: 1958 [236bda26] | Released on '2024-02-05'
+[2024-03-23 21:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-03-23 21:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-03-23 21:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-03-23 21:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+/venv/lib/python3.10/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+[2024-03-23 21:42] /venv/lib/python3.10/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+[2024-03-23 21:42] ### Loading: ComfyUI-Impact-Pack (V4.84)
+[2024-03-23 21:42] [Impact Pack] ComfyUI is an outdated version. The DifferentialDiffusion feature will be disabled.
+[2024-03-23 21:42] ### Loading: ComfyUI-Impact-Pack (Subpack: V0.4)
+[2024-03-23 21:42] [Impact Pack] ComfyUI is an outdated version. The DifferentialDiffusion feature will be disabled.
+[2024-03-23 21:42] [Impact Pack] ComfyUI is an outdated version. The DifferentialDiffusion feature will be disabled.
+[2024-03-23 21:42] [Impact Pack] ComfyUI is an outdated version. The DifferentialDiffusion feature will be disabled.
+[2024-03-23 21:42] [Impact Pack] Wildcards loading done.
+[2024-03-23 21:42] ------------------------------------------
+[2024-03-23 21:42] [34mComfyroll Studio v1.76 : [92m 175 Nodes Loaded[0m
+[2024-03-23 21:42] ------------------------------------------
+[2024-03-23 21:42] ** For changes, please see patch notes at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/blob/main/Patch_Notes.md
+[2024-03-23 21:42] ** For help, please see the wiki at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/wiki
+[2024-03-23 21:42] ------------------------------------------
+[2024-03-23 21:42] 
+Import times for custom nodes:
+[2024-03-23 21:42]    0.0 seconds: /workspace/ComfyUI/custom_nodes/sdxl_prompt_styler
+[2024-03-23 21:42]    0.0 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI_IPAdapter_plus
+[2024-03-23 21:42]    0.0 seconds: /workspace/ComfyUI/custom_nodes/stability-ComfyUI-nodes
+[2024-03-23 21:42]    0.1 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-23 21:42]    0.3 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI_Comfyroll_CustomNodes
+[2024-03-23 21:42]    0.8 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI-Impact-Pack
+[2024-03-23 21:42]    1.4 seconds: /workspace/ComfyUI/custom_nodes/ComfyUI_InstantID
+[2024-03-23 21:42] 
+[2024-03-23 21:42] Starting server
+[2024-03-23 21:42] 
+[2024-03-23 21:42] To see the GUI go to: http://0.0.0.0:8188
+[2024-03-23 21:42] FETCH DATA from: /workspace/ComfyUI/custom_nodes/ComfyUI-Manager/extension-node-map.json
+[2024-03-23 21:47] 
+Stopped server
